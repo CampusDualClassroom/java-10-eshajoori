@@ -37,7 +37,7 @@ public class Exercise10 {
             return "azul";
 
         } else {
-            return "amarillo";
+            return "verde";
         }
     }
 
